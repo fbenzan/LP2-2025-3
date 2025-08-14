@@ -2,7 +2,7 @@ namespace Ejemplo3;
 
 public class CuentaBancaria
 {
-    private decimal saldo = 0;
+    private decimal saldo = 0; //Encapsulación (3er Pilar de la POO.)
 
     public void Depositar(decimal valor)
     {
